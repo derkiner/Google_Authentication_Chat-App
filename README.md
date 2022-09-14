@@ -1,6 +1,7 @@
 # Google Authenticated Chat App
 
 ```ts
+## How To Use It:
 npx create-react-app my-app
 
 npm init react-app my-app
