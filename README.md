@@ -6,7 +6,7 @@ FEATURES & TECHNOLOGIES:
 
 - Sign-in & Log-out through your google account
 - Firebase Backend-as-a-Service (Baas)
-- Tailwind, a utility-first CSS framework
+- Tailwind, utility-first CSS framework
 - React Hooks ( useState, useEffect, useRef )
 
 ```
