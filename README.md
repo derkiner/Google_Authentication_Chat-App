@@ -1,10 +1,21 @@
 # Google Authenticated Chat App
 
-```ts
-## How To Use It:
-npx create-react-app my-app
 
-npm init react-app my-app
+```ts
+Features & Technologies:
+- Firebase Backend-as-a-Service (Baas)
+- Tailwind, a utility-first CSS framework
+- React Hooks ( useState, useEffect, useRef )
+
+```
+
+```ts
+How To Use It:
+
+- Install dependencies npm install
+- Serve on localhost:3000 => npm start
+- Build for production => npm run build
+- 
 
 ```
 
