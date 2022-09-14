@@ -13,6 +13,10 @@ FEATURES & TECHNOLOGIES:
 
 <hr>
 
+<hr>
+
+<hr>
+
 ```ts
 HOW TO OPERATE THE APP:
 
