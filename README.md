@@ -2,7 +2,8 @@
 
 
 ```ts
-Features & Technologies:
+FEATURES & TECHNOLOGIES:
+<hr>
 - Firebase Backend-as-a-Service (Baas)
 - Sign-in & Log-out through your google account
 - Tailwind, a utility-first CSS framework
@@ -11,8 +12,8 @@ Features & Technologies:
 ```
 
 ```ts
-How To Use It:
-
+HOW TO OPERATE THE APP:
+<hr>
 - Install dependencies npm install
 - Serve on localhost:3000 => npm start
 - Build for production => npm run build
