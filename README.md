@@ -22,7 +22,7 @@ HOW TO OPERATE THE APP:
 
 ```
 
-
+* Inspired by Code Commerce *
 
 <hr>
 
