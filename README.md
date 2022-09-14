@@ -1,4 +1,4 @@
-# Google Authentication_Chat App
+# Google Authentication_React Chat App
 
 
 ```ts
