@@ -15,7 +15,6 @@ FEATURES & TECHNOLOGIES:
 
 <hr>
 
-<hr>
 
 ```ts
 HOW TO OPERATE THE APP:
