@@ -29,7 +29,7 @@ HOW TO OPERATE THE APP:
 
 <hr>
 
-## SCREENSHOTS:
+## RELATED SCREENSHOTS:
 
 ![image](https://user-images.githubusercontent.com/90147636/190183478-0b3c77a3-f291-4b34-b1c0-919cafda8958.png)
 
