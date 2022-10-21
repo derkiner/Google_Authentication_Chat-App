@@ -31,7 +31,6 @@ HOW TO OPERATE THE APP:
 
 ## SCREENSHOTS:
 
-![image](https://user-images.githubusercontent.com/90147636/190183478-0b3c77a3-f291-4b34-b1c0-919cafda8958.png)
 
 ![image](https://user-images.githubusercontent.com/90147636/197229617-47dccb3f-9ed4-4f92-8511-ab5573366673.png)
 
