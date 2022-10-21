@@ -33,8 +33,7 @@ HOW TO OPERATE THE APP:
 
 ![image](https://user-images.githubusercontent.com/90147636/190183478-0b3c77a3-f291-4b34-b1c0-919cafda8958.png)
 
-![image](https://user-images.githubusercontent.com/90147636/197229473-0e5413a8-c8ab-4bc4-a36b-c4712fd595c5.png)
+![image](https://user-images.githubusercontent.com/90147636/197229617-47dccb3f-9ed4-4f92-8511-ab5573366673.png)
 
 
-<hr>
-![image](https://user-images.githubusercontent.com/90147636/197229338-2993d48c-608b-4f26-805b-5b7cbc6c1159.png)
+
